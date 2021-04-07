@@ -2,7 +2,7 @@
 
 ⚡ I’m currently learning
 
- [<img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/linkedin.svg" alt="linkedin" width="25"></img>](https://www.linkedin.com/in/jmtulli/) &nbsp;&nbsp;&nbsp;
+ [<img src="https://github.com/matiastulli/matiastulli/blob/main/linkedin.svg" alt="linkedin" width="25"></img>](https://www.linkedin.com/in/jmtulli/) &nbsp;&nbsp;&nbsp;
 
 
 <!--
