@@ -1,6 +1,6 @@
 <br>
 
-<span align="center">
+<span>
   
   ## Hi there 👋
   
