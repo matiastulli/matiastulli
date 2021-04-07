@@ -8,7 +8,6 @@
 
 <span align="center">
   
-  ### ⚡
   ### I’m currently learning  
   
 <br>
