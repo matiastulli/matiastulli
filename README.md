@@ -6,7 +6,7 @@
 
 <span align="center">
   
-  ### I’m currently learning  
+  ### Building software
   
 <br>
 
