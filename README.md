@@ -10,5 +10,6 @@ I build data platforms and the software around them: data pipelines, analytics e
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**databricks-pyspark-delta-medallion**](https://github.com/matiastulli/databricks-pyspark-delta-medallion) 🚧 | *In progress, built step by step as a learning path.* A medallion lakehouse on Databricks: PySpark ingestion into Delta Lake, idempotent `MERGE`, data quality checks, orchestration with Asset Bundles, and pytest in CI. | Databricks · PySpark · Delta Lake · GitHub Actions |
 | [**dbt-terraform-postgres-medallion**](https://github.com/matiastulli/dbt-terraform-postgres-medallion) | A local data platform. dbt builds bronze → silver → gold layers on PostgreSQL, with incremental models, SCD2 snapshots, tests and docs. Terraform manages roles, schemas and grants, and CI rebuilds everything from scratch on every push. | dbt · Terraform · PostgreSQL · GitHub Actions |
 | [**MYNAB**](https://github.com/matiastulli/MYNAB) | *Maybe You Need A Budget*: a personal budgeting app with multi-currency support, bank statement import (ICBC, Santander Río, MercadoPago) and passwordless JWT auth. | FastAPI · React · Docker |
