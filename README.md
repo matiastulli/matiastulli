@@ -2,7 +2,7 @@
 
 **Software Engineer**, based in Argentina 🇦🇷
 
-I build data platforms and the software around them: data pipelines, analytics engineering and infrastructure as code.
+I use data to build products — pipelines and analytics engineering underneath, real apps on top. Right now that is [**TuPlayero**](https://tuplayero.com), a real-time fuel price map for Argentina, live on iOS and Android.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jmtulli-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJsaW5rZWRpbi1pbiIgY2xhc3M9InN2Zy1pbmxpbmUtLWZhIGZhLWxpbmtlZGluLWluIGZhLXctMTQiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDQ4IDUxMiI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4ek01My43OSAxMDguMUMyNC4wOSAxMDguMSAwIDgzLjUgMCA1My44YTUzLjc5IDUzLjc5IDAgMCAxIDEwNy41OCAwYzAgMjkuNy0yNC4xIDU0LjMtNTMuNzkgNTQuM3pNNDQ3LjkgNDQ4aC05Mi42OFYzMDIuNGMwLTM0LjctLjctNzkuMi00OC4yOS03OS4yLTQ4LjI5IDAtNTUuNjkgMzcuNy01NS42OSA3Ni43VjQ0OGgtOTIuNzhWMTQ4LjloODkuMDh2NDAuOGgxLjNjMTIuNC0yMy41IDQyLjY5LTQ4LjMgODcuODgtNDguMyA5NCAwIDExMS4yOCA2MS45IDExMS4yOCAxNDIuM1Y0NDh6Ij48L3BhdGg%2BPC9zdmc%2B)](https://www.linkedin.com/in/jmtulli/)
 
@@ -10,6 +10,7 @@ I build data platforms and the software around them: data pipelines, analytics e
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**TuPlayero**](https://tuplayero.com) 🔒 | *Private code, public app.* A real-time fuel price map for Argentina: drivers report what they just paid, every report is validated against the provincial median and cross-checked with official declarations, and each price on the map carries its source and its age instead of hiding them. 24 provinces, free, on [iOS](https://apps.apple.com/ar/app/tuplayero/id6784289296) and [Android](https://play.google.com/store/apps/details?id=com.tuplayero.client). | Next.js · iOS · Android |
 | [**databricks-pyspark-delta-medallion**](https://github.com/matiastulli/databricks-pyspark-delta-medallion) 🚧 | *In progress, built step by step as a learning path.* A medallion lakehouse on Databricks: PySpark ingestion into Delta Lake, idempotent `MERGE`, data quality checks, orchestration with Asset Bundles, and pytest in CI. | Databricks · PySpark · Delta Lake · GitHub Actions |
 | [**dbt-terraform-postgres-medallion**](https://github.com/matiastulli/dbt-terraform-postgres-medallion) | A local data platform. dbt builds bronze → silver → gold layers on PostgreSQL, with incremental models, SCD2 snapshots, tests and docs. Terraform manages roles, schemas and grants, and CI rebuilds everything from scratch on every push. | dbt · Terraform · PostgreSQL · GitHub Actions |
 | [**MYNAB**](https://github.com/matiastulli/MYNAB) | *Maybe You Need A Budget*: a personal budgeting app with multi-currency support, bank statement import (ICBC, Santander Río, MercadoPago) and passwordless JWT auth. | FastAPI · React · Docker |
