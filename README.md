@@ -2,7 +2,7 @@
 
 **Software Engineer**, based in Argentina 🇦🇷
 
-I use data to build products — pipelines and analytics engineering underneath, real apps on top. Right now that is [**TuPlayero**](https://tuplayero.com), a real-time fuel price map for Argentina, live on iOS and Android.
+I use data to build products. Right now that is [**TuPlayero**](https://tuplayero.com), a real-time fuel price map for Argentina, live on iOS and Android.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jmtulli-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJsaW5rZWRpbi1pbiIgY2xhc3M9InN2Zy1pbmxpbmUtLWZhIGZhLWxpbmtlZGluLWluIGZhLXctMTQiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDQ4IDUxMiI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4ek01My43OSAxMDguMUMyNC4wOSAxMDguMSAwIDgzLjUgMCA1My44YTUzLjc5IDUzLjc5IDAgMCAxIDEwNy41OCAwYzAgMjkuNy0yNC4xIDU0LjMtNTMuNzkgNTQuM3pNNDQ3LjkgNDQ4aC05Mi42OFYzMDIuNGMwLTM0LjctLjctNzkuMi00OC4yOS03OS4yLTQ4LjI5IDAtNTUuNjkgMzcuNy01NS42OSA3Ni43VjQ0OGgtOTIuNzhWMTQ4LjloODkuMDh2NDAuOGgxLjNjMTIuNC0yMy41IDQyLjY5LTQ4LjMgODcuODgtNDguMyA5NCAwIDExMS4yOCA2MS45IDExMS4yOCAxNDIuM1Y0NDh6Ij48L3BhdGg%2BPC9zdmc%2B)](https://www.linkedin.com/in/jmtulli/)
 
